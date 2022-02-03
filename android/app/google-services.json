@@ -1,0 +1,185 @@
+{
+  "project_info": {
+    "project_number": "164336261244",
+    "firebase_url": "https://lacasona-34f33-default-rtdb.firebaseio.com",
+    "project_id": "lacasona-34f33",
+    "storage_bucket": "lacasona-34f33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164336261244:android:6d923f3211c48f647191f9",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164336261244-kp9468c5b6ddfbflrtufsgdcatfre1ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJXRuilDN6iUNt4JugBSy9staRW1QOkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164336261244-kp9468c5b6ddfbflrtufsgdcatfre1ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164336261244:android:1ef28fdf4fd458047191f9",
+        "android_client_info": {
+          "package_name": "com.geteat.kiosmanager.lacasona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164336261244-kp9468c5b6ddfbflrtufsgdcatfre1ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJXRuilDN6iUNt4JugBSy9staRW1QOkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164336261244-kp9468c5b6ddfbflrtufsgdcatfre1ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164336261244:android:a6b9ed3f0f548f1d7191f9",
+        "android_client_info": {
+          "package_name": "com.geteat.kitchenkiosk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164336261244-kp9468c5b6ddfbflrtufsgdcatfre1ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJXRuilDN6iUNt4JugBSy9staRW1QOkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164336261244-kp9468c5b6ddfbflrtufsgdcatfre1ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164336261244:android:0423077271f0be487191f9",
+        "android_client_info": {
+          "package_name": "com.geteat.lacasonakitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164336261244-kp9468c5b6ddfbflrtufsgdcatfre1ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJXRuilDN6iUNt4JugBSy9staRW1QOkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164336261244-kp9468c5b6ddfbflrtufsgdcatfre1ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164336261244:android:19e47629aed77ac07191f9",
+        "android_client_info": {
+          "package_name": "com.geteat.lacasonamanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164336261244-kp9468c5b6ddfbflrtufsgdcatfre1ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJXRuilDN6iUNt4JugBSy9staRW1QOkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164336261244-kp9468c5b6ddfbflrtufsgdcatfre1ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164336261244:android:6043d07631672c4d7191f9",
+        "android_client_info": {
+          "package_name": "com.geteat.lacasonawaiter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164336261244-kp9468c5b6ddfbflrtufsgdcatfre1ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzJXRuilDN6iUNt4JugBSy9staRW1QOkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164336261244-kp9468c5b6ddfbflrtufsgdcatfre1ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
